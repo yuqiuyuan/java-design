@@ -11,6 +11,7 @@
   <modules>
     <module>bytecode</module>
     <module>interperter</module>
+    <module>proxy</module>
   </modules>
 
   <properties>
