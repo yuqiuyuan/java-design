@@ -13,6 +13,7 @@
     <module>interpreter</module>
     <module>proxy</module>
     <module>api-gateway</module>
+    <module>template-method</module>
   </modules>
 
   <properties>
