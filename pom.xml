@@ -15,6 +15,7 @@
     <module>api-gateway</module>
     <module>template-method</module>
     <module>abstract-factory</module>
+    <module>chain-of-responsibility</module>
   </modules>
 
   <properties>
