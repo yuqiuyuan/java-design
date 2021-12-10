@@ -16,6 +16,8 @@
     <module>template-method</module>
     <module>abstract-factory</module>
     <module>chain-of-responsibility</module>
+    <module>data-access-object</module>
+    <module>data-bus</module>
   </modules>
 
   <properties>
