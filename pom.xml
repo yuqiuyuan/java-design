@@ -18,6 +18,7 @@
     <module>chain-of-responsibility</module>
     <module>data-access-object</module>
     <module>data-bus</module>
+    <module>data-transfer-object</module>
   </modules>
 
   <properties>
