@@ -19,6 +19,7 @@
     <module>data-access-object</module>
     <module>data-bus</module>
     <module>data-transfer-object</module>
+    <module>circuit-breaker</module>
   </modules>
 
   <properties>
